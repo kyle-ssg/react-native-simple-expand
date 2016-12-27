@@ -1,0 +1,28 @@
+{
+  "name": "react-native-simple-expand",
+  "version": "0.1.0",
+  "description": "Simple expandable view with extendable animations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "expand",
+    "reveal",
+    "expandable"
+  ],
+  "author": "kyle-ssg",
+  "license": "ISC",
+  "peerDependencies": {
+    "react-native": ">=0.20.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyle-ssg/react-native-simple-expand.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kyle-ssg/react-native-simple-expand/issues"
+  },
+  "homepage": "https://github.com/kyle-ssg/react-native-simple-expand#readme"
+}
