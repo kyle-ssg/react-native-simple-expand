@@ -1,7 +1,7 @@
 
 <img src="./screen.gif"/>
 
-*** Optional Props (See ./example for usage) ***
+***Optional Props (See ./example for usage)***
 - maxHeight: How far can the view expand
 - minHeight: How much to show in the closed state
 - value: true or false
