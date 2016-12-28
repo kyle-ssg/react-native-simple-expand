@@ -1,6 +1,6 @@
 {
   "name": "react-native-simple-expand",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple expandable view with extendable animations",
   "main": "index.js",
   "scripts": {

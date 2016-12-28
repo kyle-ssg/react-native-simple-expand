@@ -42,7 +42,7 @@ const Expand = class extends Component {
 
     _setMaxHeight (event) {
         this.setState({
-            maxHeight: Math.max((0, this.props.maxHeight) || event.nativeEvent.layout.height)
+            maxHeight: Math.max((this.props.maxHeight || 0), event.nativeEvent.layout.height)
         });
     }
 
