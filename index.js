@@ -41,8 +41,9 @@ const Expand = class extends Component {
     };
 
     _setMaxHeight (event) {
+        const layoutHeight = event.nativeEvent.layout.height;
         this.setState({
-            maxHeight: Math.max((this.props.maxHeight || 0), event.nativeEvent.layout.height)
+            maxHeight: Math.min((this.props.maxHeight || layoutHeight), layoutHeight)
         });
     }
 
