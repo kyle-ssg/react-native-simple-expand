@@ -1,4 +1,4 @@
-
+**Expand / collapse, component automatically calculates desired height**
 <img src="./screen.gif"/>
 
 ***Optional Props (See ./example for usage)***
